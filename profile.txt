@@ -1,2 +1,3 @@
 Name: Nguyen Tan Phat
 interests: Coding, Design
+Skills: ChatGpt, Copilot, Grok
